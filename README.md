@@ -64,7 +64,7 @@ Here are some ideas to get you started:
       </td>
       <td width="16%" align="center">
         <strong>NPM</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/npm.svg">
+        <img height="48px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg">
       </td>
     </tr>
   </tbody>
