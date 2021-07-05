@@ -30,7 +30,7 @@ Here are some ideas to get you started:
       </td>
       <td width="16%" align="center">
         <strong>Sass</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/sass.svg.svg">
+        <img height="48px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
       <td width="16%" align="center">
         <strong>Bootstrap</strong><br><br><br>
@@ -50,11 +50,11 @@ Here are some ideas to get you started:
         <strong>PHP</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
-      <td width="32%" align="center">
+      <td width="16%" align="center">
         <strong>Laravel</strong><br><br><br>
         <img height="48px" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
       </td>
-      <td width="32%" align="center">
+      <td width="16%" align="center">
         <strong>mySQL</strong><br><br><br>
         <img height="48px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
