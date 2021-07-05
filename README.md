@@ -62,6 +62,10 @@ Here are some ideas to get you started:
         <strong>Git</strong><br><br><br>
         <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
+      <td width="16%" align="center">
+        <strong>NPM</strong><br><br><br>
+        <img height="48px" src="https://cdn.svgporn.com/logos/npm.svg">
+      </td>
     </tr>
   </tbody>
 </table>
