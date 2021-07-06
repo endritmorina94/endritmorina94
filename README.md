@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-## I'm Endrit, welcome to my GitHub profile!
+## Welcome to my GitHub profile! 😃
 
 ## My Tech Stack
 
@@ -71,3 +71,5 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
+
+### Take a look to my best public projects, down here :point_down:
