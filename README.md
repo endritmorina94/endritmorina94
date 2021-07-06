@@ -1,6 +1,8 @@
 # Hello World! 👋
 
-## Tech Stack
+## I'm Endrit, welcome to my GitHub profile!
+
+## My Tech Stack
 
 <!--
 **endritmorina94/endritmorina94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
