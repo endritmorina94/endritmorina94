@@ -47,6 +47,10 @@ Here are some ideas to get you started:
         <img height="48px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
     </tr>
+    <td width="16%" align="center">
+        <strong>Angular</strong><br><br><br>
+        <img height="48px" src="https://www.vectorlogo.zone/logos/angular.svg">
+      </td>
     <tr valign="top">
       <td width="16%" align="center">
         <strong>PHP</strong><br><br><br>
